@@ -8,7 +8,7 @@ social:
     img: /assets/images/gmail.png
     url: mailto:jimmydong@gmail.com
 
-avatar: /assets/images/avatar.png
+avatar: /assets/images/avatar.jpg
 introduction: >
   Hi! I am jimmydong.<br/>
   Welcome to my site!
@@ -16,33 +16,34 @@ introduction: >
 projects:
   title: Open Source Projects
   github:
-    - xcatliu/mobi.css
-    - xcatliu/typescript-tutorial
-    - xcatliu/react-ie8
-    - xcatliu/jekyllcn
-    - xcatliu/leetcode
+    - jimmydong/YEPF3
+    - jimmydong/jd-init
+    - jimmydong/DBM
+    - jimmydong/YEPY
+    - jimmydong/Yaf
   content: >
-    <p>Other projects that I have contributed can be found in <a href="https://github.com/xcatliu">github.com/xcatliu</a>.</p>
-    <p>If you love my projects, please <a href="https://github.com/xcatliu/buy-me-a-coffee">buy me a coffee</a> to support me.</p>
+    <p>Other projects that I have contributed can be found in <a href="https://github.com/jimmydong">github.com/jimmydong</a>.</p>
 
 working:
   title: Working Experience
   timeline:
     - date: Now
-    - "Microsoft: Software Engineer II"
-    - date: 2016-04
-    - "Meituan: Senior Front-End Engineer"
-    - date: 2015-04
-    - "Meituan: Front-End Engineer"
-    - date: 2013-06
-    - "Meituan: Front-End Engineer Internship"
-    - date: 2012-10
+    - "Yishengdaojia.com: CTO"
+    - date: 2015-02
+    - "Yoka.com: Director"
+    - date: 2008-12
+    - "SOHU.com: Tech Manager"
+    - date: 2005-08
+    - "Other: Senior Engineer"
+    - date: 1999-08
 
 education:
   title: Education Background
   timeline:
-    - date: 2013-06
-    - "Bachelor of WuHan University: Computer Science and Technology"
-    - date: 2009-09
+    - date: 2008-07
+    - "Master of Peking University: Computer Networking"
+    - date: 1999-07
+    - "Bachelor of University of Science and Technology of China: Computer Science and Technology"
+    - date: 1994-09
 
-google_analytics: UA-45256157-13
+google_analytics: justwait
