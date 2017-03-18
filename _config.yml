@@ -1,0 +1,48 @@
+title: jimmydong / 老董
+description: 工作不闲聊
+social:
+  - title: GitHub
+    img: /assets/images/github.ico
+    url: https://github.com/jimmydong
+  - title: Gmail
+    img: /assets/images/gmail.png
+    url: mailto:jimmydong@gmail.com
+
+avatar: /assets/images/avatar.png
+introduction: >
+  Hi! I am jimmydong.<br/>
+  Welcome to my site!
+
+projects:
+  title: Open Source Projects
+  github:
+    - xcatliu/mobi.css
+    - xcatliu/typescript-tutorial
+    - xcatliu/react-ie8
+    - xcatliu/jekyllcn
+    - xcatliu/leetcode
+  content: >
+    <p>Other projects that I have contributed can be found in <a href="https://github.com/xcatliu">github.com/xcatliu</a>.</p>
+    <p>If you love my projects, please <a href="https://github.com/xcatliu/buy-me-a-coffee">buy me a coffee</a> to support me.</p>
+
+working:
+  title: Working Experience
+  timeline:
+    - date: Now
+    - "Microsoft: Software Engineer II"
+    - date: 2016-04
+    - "Meituan: Senior Front-End Engineer"
+    - date: 2015-04
+    - "Meituan: Front-End Engineer"
+    - date: 2013-06
+    - "Meituan: Front-End Engineer Internship"
+    - date: 2012-10
+
+education:
+  title: Education Background
+  timeline:
+    - date: 2013-06
+    - "Bachelor of WuHan University: Computer Science and Technology"
+    - date: 2009-09
+
+google_analytics: UA-45256157-13
